@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /actions/
+Disallow: /images/
+Disallow: /components/
+Disallow: /media/
+Disallow: /udfs/
+Disallow: /docs/
+
