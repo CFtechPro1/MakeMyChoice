@@ -1,0 +1,36 @@
+.calendar-box {
+	display:none;
+	background-color:#fff;
+	border:1px solid #444;
+	position:absolute;
+	width:250px;
+	padding: 0 5px;
+}
+.calendar-month {
+	width:90px;
+}
+.calendar-year {
+	width:70px;
+}
+.calendar-cancel {
+	width:100%;
+}
+.table td {
+	width:14%;
+}
+.calendar-title {
+	text-align:center;
+}
+.a {
+	text-decoration:none;
+}
+.today a {
+	padding:0 5px;
+	margin-left:-5px;
+	background-color:#ffe9c6;
+} 
+.selected a {
+	padding:0 5px;
+	margin-left:-5px;
+	background-color:#c9ff8b;
+}

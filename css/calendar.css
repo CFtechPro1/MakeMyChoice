@@ -1,0 +1,72 @@
+.calendar-box {
+	display:none;
+	background-color:#fff;
+	border:1px solid #444;
+	position:absolute;
+	width:250px;
+	padding: 0 5px;
+	FONT-SIZE: 12px; 
+	COLOR: #858889; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+}
+.calendar-month {
+	width:90px;
+	FONT-SIZE: 12px; 
+	COLOR: #858889; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+}
+.calendar-year {
+	width:70px;
+	FONT-SIZE: 12px; 
+	COLOR: #858889; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+}
+.calendar-cancel {
+	width:100%;
+	FONT-SIZE: 12px; 
+	COLOR: #858889; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+}
+.table td {
+	width:14%;
+	FONT-SIZE: 12px; 
+	COLOR: #858889; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+}
+.calendar-title {
+	text-align:center;
+	FONT-SIZE: 12px; 
+	COLOR: #858889; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+}
+.a {
+	text-decoration:none;
+	FONT-SIZE: 12px; 
+	COLOR: #498db1; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+	
+}
+.a:hover {
+	text-decoration:underline;
+	FONT-SIZE: 12px; 
+	COLOR: #498db1; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+	
+}
+.today a {
+	padding:0 5px;
+	margin-left:-5px;
+	background-color:#e1f5ff;
+	text-decoration:none;
+	FONT-SIZE: 12px; 
+	COLOR: #498db1; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;} 
+.selected a {
+	padding:0 5px;
+	margin-left:-5px;
+	background-color:#fcb026;
+	text-decoration:none;
+	FONT-SIZE: 12px; 
+	COLOR: #498db1; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+}
